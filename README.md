@@ -1,7 +1,9 @@
 # Projet pour un salon mathématiques
 
 Ceci est un projet universitaire réalisé sur le premier semestre 2023, dans une équipe de 5 ou j'ai était le chef de projet nous devions collaborer pour répondre aux attentes d'un client qui avait besoin d'un site web.
+
 Notre client était une association mathématique nommé Animath qui avait besoin d'un site web afin d'organiser leur événement. Cet événement avait pour but de mettre en avant les mathématiques de façon plus ludique que ce soit les plus vieux comme les plus jeunes, leur événement était organisé en 4 jours, les 2 premiers jours réserver aux écoles où des élèves auront tous l'événements réserver pour eux ils ont pu utiliser les différentes activités proposer par l'association et les 2 autres jours pour n'importe quel autre individu qui voudrait assister au salon mathématiques et participer aux activités.
+
 Notre client nous à demander de créer un site web pour les 2 premiers jours où les écoles auront l'événement pour eux, afin de coordonner plus rapidement et simplement plusieurs facteurs : 
  - Gérer les créneaux horaires des activités pour leurs élèves en réservant à l'avance.
  - Obtenir les informations sur les activités et stands.
