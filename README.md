@@ -10,4 +10,4 @@ Notre client nous à demander de créer un site web pour les 2 premiers jours o�
  - Permettre aux animateurs de gérer leurs activités et de consulter les élèves qui seront présent à leurs stands.
  - Pouvoir importer un ficher excel contenant les informations de tous les stands avec leurs informations (nom du stand, horaires, description) 
 
-Pour utiliser ce projet il faut le télécharger l'installer sur un serveur web, modifier les connexions à la base de données (notamment en changeant les logins et passwords) dans le fichier Model.php et en exécutant les scripts SQL qui vont permettre de rajouter la base de donnée en local puisque le site n'est plus en ligne.
+Malheureseument le site n'est plus en ligne cependant vous pouvez toujours l'utiliser en local. Pour utiliser ce projet il faut le télécharger l'installer sur un serveur web, modifier les connexions à la base de données (notamment en changeant les logins et passwords) dans le fichier Model.php et en exécutant les scripts SQL qui vont permettre de rajouter la base de donnée en local.
